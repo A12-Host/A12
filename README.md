@@ -1,12 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="KINGMAN DEV" src="https://i.top4top.io/p_1965sxw291.png">  
 
-# MTASA-BOT
-
-[![](https://img.shields.io/discord/565048515357835264.svg?logo=discord&colorB=blue&label=KINGMAN_DEV)](https://discord.gg/kingmandev)
-[![](https://img.shields.io/badge/discord.js-v13.1.0-blue.svg?logo=npm)](https://github.com/discordjs)
-
-MTASA-BOT is a open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) by [KINGMAN](https://github.com/KMKINGMAN).  
-Feel free to add a star ⭐ to the repository to promote the project!
 
 ### Many commands
 
