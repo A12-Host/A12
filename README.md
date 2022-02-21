@@ -71,7 +71,7 @@ npm init -y && npm i --save-dev node@16 && npm config set prefix=$(pwd)/node_mod
 ## Contributing
 
 Before **creating an issue**, please ensure that it hasn't already been reported/suggested
-And if you have a question, please ask it in the [Discord server](https://discord.gg/kingmandev) instead of opening an issue.
+And if you have a question, please ask it in the [Discord server](https://discord.gg/sus) instead of opening an issue.
 If you wish to contribute to the KINGMANDEV codebase or documentation, feel free to fork the repository and submit a pull request!
 
 ## License
